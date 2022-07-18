@@ -137,3 +137,5 @@ Given numbers = [2, 7, 11, 15], target = 9,
 Because nums[0] + nums[1] = 2 + 7 = 9,
 result [0, 1]
 ```
+
+Feel free to make an addition or improvement in the questions and if you like the effort, do give a star to the repo :-) 
