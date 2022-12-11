@@ -138,4 +138,21 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 result [0, 1]
 ```
 
+16) Write a function to generate all possible n pairs of balanced parentheses. 
+```sh
+Examples: 
+
+Input: n=1
+Output: {}
+Explanation: This the only sequence of balanced 
+parenthesis formed using 1 pair of balanced parenthesis. 
+
+Input : n=2
+Output: 
+{}{}
+{{}}
+Explanation: This the only two sequences of balanced 
+parenthesis formed using 2 pair of balanced parenthesis. 
+```
+
 Feel free to make an addition or improvement in the questions and if you like the effort, do give a star to the repo :-) 
