@@ -154,5 +154,17 @@ Output:
 Explanation: This the only two sequences of balanced 
 parenthesis formed using 2 pair of balanced parenthesis. 
 ```
+17) Given an array arr of size N and an integer K. The task is to find the pair of integers such that their sum is maximum and but less than K 
+```sh
+Examples: 
+
+Input : arr = {30, 20, 50} , K = 70 
+Output : 30, 20 
+30 + 20 = 50, which is the maximum possible sum which is less than K
+ 
+
+Input : arr = {5, 20, 110, 100, 10}, K = 85 
+Output : 20, 10 
+```
 
 Feel free to make an addition or improvement in the questions and if you like the effort, do give a star to the repo :-) 
